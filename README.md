@@ -129,27 +129,6 @@ customer-analytics-rfm-clustering/
 
 ---
 
-## 🚀 How to Run
-
-### **Prerequisites:**
-```bash
-Python 3.8+
-Jupyter Notebook
-```
-
-### **Installation:**
-```bash
-# Clone the repository
-git clone https://github.com/rishi559/customer-analytics-rfm-clustering.git
-cd customer-analytics-rfm-clustering
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter Notebook
-jupyter notebook
-```
-
 ### **Run Notebooks in Order:**
 1. `01_Feature_Engineering.ipynb`
 2. `02_Clustering_Analysis.ipynb`
