@@ -1,0 +1,3 @@
+Segment,Priority,Customers,Churn_Rate,Revenue,Strategy
+Champions,🟢 HIGHEST,2452,15.9%,"$3,945,784.15","VIP treatment. Reward loyalty, upsell premium, early access to exclusives."
+At High Risk,🟠 CRITICAL,7548,51.6%,"$1,896,947.04","Aggressive retention. Personal outreach, exclusive offers, account manager contact."
