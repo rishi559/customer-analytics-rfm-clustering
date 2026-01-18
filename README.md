@@ -158,8 +158,7 @@ customer-analytics-rfm-clustering/
 
 **Rishi Dhandi**  
 Marketing/Growth Data Analyst  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/rishi-dhandi/)
-
+[LinkedIn](https://www.linkedin.com/in/rishi-dhandi/) | [GitHub](https://github.com/rishi559)
 ---
 
 ## 📄 License
